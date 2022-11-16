@@ -18,7 +18,45 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7132f632-96e3-4019-a89b-0c3277cfdddf" name="Changes" comment="" />
+    <list default="true" id="7132f632-96e3-4019-a89b-0c3277cfdddf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarControl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/AutoWarControl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarControl.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/AutoWarControl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/Bomb.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Bomb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/BombAirPlane.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/BombAirPlane.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/BombArray.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/BombArray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/IncludeS.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/IncludeS.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-31a725b01593b5f1d96c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-05T22-41-33-0661.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BattleZone-Debug-e14ae5031bd1633a0bc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoBomb.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoBomb.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoTank.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoTank.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoWarControl.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoWarControl.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoWarObject.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/AutoWarObject.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Bomb.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Bomb.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/BombArray.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/BombArray.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/BombTank.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/BombTank.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Camera.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Camera.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionBox.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionBox.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionBoxArray.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionBoxArray.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionSquare.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/CollisionSquare.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/ControlWarObject.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/ControlWarObject.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Explosion.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Explosion.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tank.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tank.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Terrain.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Terrain.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Texture.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Texture.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +66,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,6 +78,7 @@
     <option name="minorVersion" value="2.4" />
   </component>
   <component name="ProjectId" id="2GJ1f6Egzv7DTsjVAj1JiDMaE1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +91,8 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/Projects/Graphics/BattleZone/Models/Texture/Terrain",
+    "last_opened_file_path": "D:/Projects/Graphics/BattleZone",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "CPPToolchains"
   }
 }]]></component>
@@ -85,11 +128,22 @@
       <workItem from="1666886928017" duration="17000" />
       <workItem from="1667661739702" duration="24026000" />
       <workItem from="1667913189069" duration="2186000" />
-      <workItem from="1668517461918" duration="23252000" />
+      <workItem from="1668517461918" duration="25176000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

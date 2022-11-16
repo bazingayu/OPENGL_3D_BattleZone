@@ -208,7 +208,6 @@ void gameInit()
 
     //initial bomb array
     bombArray.setParForBombType(tankBomb_Type, gAcceleBomb, "D:/Projects/Graphics/BattleZone/Models/Texture/Explosion/tankBombEx.tga", "D:/Projects/Graphics/BattleZone/Models/Sound/bombTank.wav");
-    bombArray.setParForBombType(autoBomb_Type, gAcceleBomb, "D:/Projects/Graphics/BattleZone/Models/Texture/Explosion/tankBombEx.tga", "D:/Projects/Graphics/BattleZone/Models/Sound/bombAirPlane.wav");
 
     bombArray.setParForCollision(&groundCollSquare, &collisionBoxArray);
 

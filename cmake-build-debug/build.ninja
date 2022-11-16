@@ -145,14 +145,6 @@ build CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj: CXX_COMPILER__BattleZon
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\BombAirPlane.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\BombAirPlane.cpp || cmake_object_order_depends_target_BattleZone
-  FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
-  OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
-  TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
-  TARGET_PDB = BattleZone.pdb
-
 build CMakeFiles\BattleZone.dir\SourceCode\BombArray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\BombArray.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
   INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
@@ -241,7 +233,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable BattleZone.exe
 
-build BattleZone.exe: CXX_EXECUTABLE_LINKER__BattleZone_Debug CMakeFiles\BattleZone.dir\main.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionSquare.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Camera.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\GLMetaseq.c.obj CMakeFiles\BattleZone.dir\SourceCode\AutoBomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombAirPlane.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBox.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBoxArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\ControlWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Explosion.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj
+build BattleZone.exe: CXX_EXECUTABLE_LINKER__BattleZone_Debug CMakeFiles\BattleZone.dir\main.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionSquare.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Camera.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\GLMetaseq.c.obj CMakeFiles\BattleZone.dir\SourceCode\AutoBomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBox.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBoxArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\ControlWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Explosion.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:X86 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = freeglut.lib  glew32.lib  assimp.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

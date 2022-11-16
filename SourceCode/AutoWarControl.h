@@ -33,7 +33,6 @@ public:
 	
 	void init();
 
-	void airPlaneStart();
 	void autoTankStart(int tankNumber);
 	void autoTankShot(int tankNumber);
 

@@ -28,7 +28,6 @@ add_executable(BattleZone
         SourceCode/AutoBomb.cpp
         SourceCode/AutoWarObject.cpp
         SourceCode/Bomb.cpp
-        SourceCode/BombAirPlane.cpp
         SourceCode/BombArray.cpp
         SourceCode/BombTank.cpp
         SourceCode/CollisionBox.cpp

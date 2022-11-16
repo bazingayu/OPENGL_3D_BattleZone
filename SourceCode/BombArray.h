@@ -16,7 +16,6 @@
 #include "Bomb.h"
 #include "BombTank.h"
 #include "AutoBomb.h"
-#include "BombAirPlane.h"
 #include "AutoWarObject.h"
 #include "CollisionSquare.h"
 #include "CollisionBoxArray.h"
@@ -45,7 +44,6 @@ public:
 	void setParForCollision(CollisionSquare *groundCollSquare, CollisionBoxArray *collisionBoxArray);
 	
 	void addTankBomb(TVector startPosition, TVector startVelocity);
-	void addAirPlaneBomb(TVector startPosition,TVector startVelocity, float angleWithX);
 	void addAutoBomb(TVector startPosition,  float velocityMag, AutoWarObject *targetObject);
 	
 	

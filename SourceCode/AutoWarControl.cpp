@@ -2,10 +2,11 @@
 
 AutoWarControl::AutoWarControl()
 {
-	lastTimeAutoTankShot = lastTimeAirPlaneAppear;
-	deltaTimeAutoTankShot = 9000;
-	lastTimeCreateAutoTank = lastTimeAirPlaneAppear;
+//	lastTimeAutoTankShot = lastTimeAirPlaneAppear;
+	deltaTimeAutoTankShot = 1000;
+//	lastTimeCreateAutoTank = lastTimeAirPlaneAppear;
 	deltaTimeCreateAutoTank = 19000;
+    deltaTimeCreateAutoTank = 1000;
 
 	distantMax = 500.0;
 }

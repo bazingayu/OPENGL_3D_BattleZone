@@ -22,7 +22,6 @@
 
 
 #define tankBomb_Type 0
-#define airPlaneBomb_Type 1
 #define autoBomb_Type 2
 
 /*************************** Macros and constants ***************************/

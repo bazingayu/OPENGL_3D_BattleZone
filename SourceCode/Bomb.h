@@ -17,7 +17,7 @@
 class Bomb : public AutoWarObject
 {
 protected:
-	unsigned int bombType;		//bomb of myTank = 1;  bomb of airplane = 2;
+	unsigned int bombType;		//bomb of myTank = 1;
 	unsigned int minusLifeDelta;
 	Explosion explosion;
 public:
