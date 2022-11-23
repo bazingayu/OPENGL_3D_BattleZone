@@ -1,12 +1,3 @@
-/*
- *  camera.h
- *  myGame
- *
- *  Created by le van nghia on 10/17/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #ifndef _CAMERA_H_
 #define _CAMERA_H_
 

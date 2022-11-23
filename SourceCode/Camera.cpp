@@ -1,13 +1,3 @@
-/*
- *  camera.cpp
- *  RunningCarAnimation
- *
- *  Created by le van nghia on 10/17/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
-
 #include "Camera.h"
 
 Camera::Camera()

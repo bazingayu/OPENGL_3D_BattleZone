@@ -1,12 +1,3 @@
-/*
- *  terrain.cpp
- *  cacti
- *
- *  Created by le van nghia on 10/31/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include "Terrain.h"
 
 Terrain::Terrain()

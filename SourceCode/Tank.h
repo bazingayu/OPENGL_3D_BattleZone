@@ -9,8 +9,8 @@
 #ifndef _TANK_H_
 #define _TANK_H_
 #include "MqoObject.h"
-#include "ControlWarObject.h"
-#include "AutoWarObject.h"
+#include "war_src/ControlWarObject.h"
+#include "war_src/AutoWarObject.h"
 #include "Terrain.h"
 #include "TVector.h"
 

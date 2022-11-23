@@ -1,18 +1,9 @@
-/*
- *  Bomb.h
- *  myGame
- *
- *  Created by le van nghia on 12/12/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #ifndef _BOMB_H_
 #define _BOMB_H_
 
 #include "IncludeS.h"
-#include "AutoWarObject.h"
-#include "Explosion.h"
+#include "war_src/AutoWarObject.h"
+#include "war_src/Explosion.h"
 
 class Bomb : public AutoWarObject
 {

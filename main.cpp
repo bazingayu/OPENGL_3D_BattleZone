@@ -22,21 +22,22 @@
 #include <assimp/postprocess.h> // various extra operations
 
 #include "Terrain.h"
-#include "CollisionSquare.h"
+#include "war_src/CollisionSquare.h"
 #include "Camera.h"
-#include "GLMetaseq.h"
-#include "BombArray.h"
+#include "war_src/GLMetaseq.h"
+#include "war_src/BombArray.h"
 #include "Tank.h"
 #include "AutoTank.h"
-#include "AutowarControl.h"
+#include "war_src/AutoWarControl.h"
 
 
 static unsigned int gViewMode = 0;
-static float gFogDensity = 0.0025;
+static float gFogDensity = 0.000005;
 static int gWinWidth = 1200;
 static int gWinHeight = 600;
 static float gMoveDelta = 2.0;
 static float gAngleTankDelta = 3.0;
+
 
 //object
 Terrain myTerrain;
@@ -55,6 +56,9 @@ static float gAngleGunDelta = 5.0;
 static float gBombVelocityMagDelta = 0.4;
 static float gTimeStep = 0.6;
 static float topdownViewHeight = 300;
+static float diffuse_value = 0.1;
+static float specular_value = 0.1;
+static float ambient_value = 0.1;
 AutoWarControl autoWarControl;
 
 static TVector gCenterPoint(mapX * mapScale*0.5, 5.0,  -mapZ * mapScale*0.5);
@@ -140,10 +144,7 @@ void caculateCameraView(unsigned int viewMode) {
                                 gCameraPosition.Z());
             camera.changeUpDirection(1, 0, 0);
             break;
-
     }
-
-
 }
 
 
@@ -168,10 +169,10 @@ void mySetLight()
 {
 //    GLfloat diffuse[]={0.9, 0.9, 0.9, 1.0};
 //    GLfloat specular[]={1.0, 1.0, 1.0, 1.0};
-    GLfloat diffuse[]={0., 0., 0., 1.0};
-    GLfloat specular[]={0, 0, 0, 1.0};
-    GLfloat ambient[]={0.3, 0.3, 0.3, 0.1};
-    GLfloat position[]= {100.0, 200.0, 200.0, 1.0};
+    GLfloat diffuse[]={diffuse_value, diffuse_value, diffuse_value, 1.0};
+    GLfloat specular[]={specular_value, specular_value, specular_value, 1.0};
+    GLfloat ambient[]={ambient_value, ambient_value, ambient_value, 0.1};
+    GLfloat position[]= {0, 0.0, 0.0, 1.0};
 
     glLightfv(GL_LIGHT0,GL_DIFFUSE, diffuse);
     glLightfv(GL_LIGHT0, GL_SPECULAR, specular);
@@ -277,6 +278,27 @@ void mySpecialKeyboard(int key, int x, int y)
         case GLUT_KEY_F4:
             topdownViewHeight += 10;
             break;
+        case GLUT_KEY_F5:				//view
+            diffuse_value += 0.1;
+            if (diffuse_value > 1.0)
+                diffuse_value = 0.0;
+            mySetLight();
+            cout << "light_value = " << diffuse_value << " " << specular_value << " " << ambient_value << endl;
+            break;
+        case GLUT_KEY_F6:				//view 2
+            specular_value += 0.1;
+            if (specular_value > 1.0)
+                specular_value = 0.0;
+            mySetLight();
+            cout << "light_value = " << diffuse_value << " " << specular_value << " " << ambient_value << endl;
+            break;
+        case GLUT_KEY_F7:
+            ambient_value += 0.1;
+            if (ambient_value > 1.0)
+                ambient_value = 0.0;
+            mySetLight();
+            cout << "light_value = " << diffuse_value << " " << specular_value << " " << ambient_value << endl;
+            break;
     }
 }
 
@@ -352,14 +374,20 @@ void myIdle()
 //允许使用键盘/鼠标或其他设备对部分 3D 场景进行交互式操作（即变换）；
 //包括至少一个复杂的对象，其层次结构正在发生变化；
 //场景必须有光照和阴影； 包括漫射和镜面物体；
+
 //支持至少两个不同的相机视图，例如，
 //a) 第一人称视角，允许用户在场景中行走或飞行； b）自上而下的视图（例如俯视图）
-//Display at least one 3D polygon mesh - you may generate this or load scene/objects from a file;
+
 //Allow interactive manipulation of part of the 3D scene (i.e. transforms) using keyboard/mouse or some other device;
+//
+
+
+//Finished
+//Display at least one 3D polygon mesh - you may generate this or load scene/objects from a file;
 //Include at least one complex object with a hierarchical structure undergoing transformations;
-//The scene must be lit and shaded; including diffuse and specular objects;
 //Support at least two different camera views, e.g.,
 //a) first person view with camera movements allowing user to walk or fly through the scene; b) top down view (e.g. overhead map)
+//The scene must be lit and shaded; including diffuse and specular objects;
 
 
 

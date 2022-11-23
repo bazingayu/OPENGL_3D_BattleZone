@@ -1,12 +1,3 @@
-/*
- *  terrain.h
- *  myGame
- *
- *  Created by le van nghia on 10/31/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #ifndef _TERRAIN_H_
 #define _TERRAIN_H_
 

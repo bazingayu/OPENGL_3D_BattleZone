@@ -1,12 +1,3 @@
-/*
- *  Mqoobject.cpp
- *  GlMetaseq
- *
- *  Created by le van nghia on 12/5/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include "MqoObject.h"
 
 MqoObject::MqoObject()

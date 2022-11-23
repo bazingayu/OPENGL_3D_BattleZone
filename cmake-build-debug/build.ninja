@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_BattleZone: phony || CMakeFiles\BattleZo
 
 build CMakeFiles\BattleZone.dir\main.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\main.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -59,7 +59,7 @@ build CMakeFiles\BattleZone.dir\main.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:
 
 build CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\maths_funcs.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -67,7 +67,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj: CXX_COMPILER__Ba
 
 build CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Terrain.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -75,7 +75,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj: CXX_COMPILER__Battle
 
 build CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Texture.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -83,7 +83,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj: CXX_COMPILER__Battle
 
 build CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Tvector.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -91,111 +91,111 @@ build CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj: CXX_COMPILER__Battle
 
 build CMakeFiles\BattleZone.dir\SourceCode\Tray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Tray.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\CollisionSquare.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\CollisionSquare.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\CollisionSquare.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\CollisionSquare.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
 build CMakeFiles\BattleZone.dir\SourceCode\Camera.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Camera.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\GLMetaseq.c.obj: C_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\GLMetaseq.c || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\GLMetaseq.c.obj: C_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\GLMetaseq.c || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\AutoBomb.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\AutoBomb.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\AutoBomb.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\AutoBomb.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\AutoWarObject.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\AutoWarObject.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\AutoWarObject.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\AutoWarObject.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
 build CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Bomb.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\BombArray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\BombArray.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\BombArray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\BombArray.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\BombTank.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\BombTank.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\BombTank.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\BombTank.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\CollisionBox.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\CollisionBox.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\CollisionBox.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\CollisionBox.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\CollisionBoxArray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\CollisionBoxArray.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\CollisionBoxArray.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\CollisionBoxArray.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\ControlWarObject.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\ControlWarObject.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\ControlWarObject.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\ControlWarObject.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\Explosion.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Explosion.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\Explosion.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\Explosion.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
 build CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\MqoObject.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -203,7 +203,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj: CXX_COMPILER__Batt
 
 build CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\Tank.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
@@ -211,17 +211,17 @@ build CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj: CXX_COMPILER__BattleZon
 
 build CMakeFiles\BattleZone.dir\SourceCode\AutoTank.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\AutoTank.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
-build CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\SourceCode\AutoWarControl.cpp || cmake_object_order_depends_target_BattleZone
+build CMakeFiles\BattleZone.dir\war_src\AutoWarControl.cpp.obj: CXX_COMPILER__BattleZone_Debug D$:\Projects\Graphics\BattleZone\war_src\AutoWarControl.cpp || cmake_object_order_depends_target_BattleZone
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++14
-  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
+  INCLUDES = -ID:\Projects\Graphics\BattleZone -ID:\Projects\Graphics\BattleZone\SourceCode -ID:\Projects\Graphics\BattleZone\war_src -ID:\Projects\Graphics\BattleZone\freeglut\include -ID:\Projects\Graphics\BattleZone\glew-1.10.0\include -ID:\Projects\Graphics\BattleZone\glm -ID:\Projects\Graphics\BattleZone\assimp\include
   OBJECT_DIR = CMakeFiles\BattleZone.dir
-  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\SourceCode
+  OBJECT_FILE_DIR = CMakeFiles\BattleZone.dir\war_src
   TARGET_COMPILE_PDB = CMakeFiles\BattleZone.dir\
   TARGET_PDB = BattleZone.pdb
 
@@ -233,7 +233,7 @@ build CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable BattleZone.exe
 
-build BattleZone.exe: CXX_EXECUTABLE_LINKER__BattleZone_Debug CMakeFiles\BattleZone.dir\main.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionSquare.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Camera.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\GLMetaseq.c.obj CMakeFiles\BattleZone.dir\SourceCode\AutoBomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\BombTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBox.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\CollisionBoxArray.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\ControlWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Explosion.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoTank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoWarControl.cpp.obj
+build BattleZone.exe: CXX_EXECUTABLE_LINKER__BattleZone_Debug CMakeFiles\BattleZone.dir\main.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\maths_funcs.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Terrain.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Texture.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tvector.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tray.cpp.obj CMakeFiles\BattleZone.dir\war_src\CollisionSquare.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Camera.cpp.obj CMakeFiles\BattleZone.dir\war_src\GLMetaseq.c.obj CMakeFiles\BattleZone.dir\war_src\AutoBomb.cpp.obj CMakeFiles\BattleZone.dir\war_src\AutoWarObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Bomb.cpp.obj CMakeFiles\BattleZone.dir\war_src\BombArray.cpp.obj CMakeFiles\BattleZone.dir\war_src\BombTank.cpp.obj CMakeFiles\BattleZone.dir\war_src\CollisionBox.cpp.obj CMakeFiles\BattleZone.dir\war_src\CollisionBoxArray.cpp.obj CMakeFiles\BattleZone.dir\war_src\ControlWarObject.cpp.obj CMakeFiles\BattleZone.dir\war_src\Explosion.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\MqoObject.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\Tank.cpp.obj CMakeFiles\BattleZone.dir\SourceCode\AutoTank.cpp.obj CMakeFiles\BattleZone.dir\war_src\AutoWarControl.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:X86 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = freeglut.lib  glew32.lib  assimp.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

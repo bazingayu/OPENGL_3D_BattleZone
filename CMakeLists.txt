@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 set(PROJECT_DIR "D:/Projects/Graphics/BattleZone")
 include_directories(${PROJECT_DIR})
 include_directories(${PROJECT_DIR}/SourceCode)
+include_directories(${PROJECT_DIR}/war_src)
 include_directories(${PROJECT_DIR}/freeglut/include)
 include_directories(${PROJECT_DIR}/glew-1.10.0/include)
 include_directories(${PROJECT_DIR}/glm)
@@ -22,22 +23,22 @@ add_executable(BattleZone
         SourceCode/Texture.cpp
         SourceCode/Tvector.cpp
         SourceCode/Tray.cpp
-        SourceCode/CollisionSquare.cpp
+        war_src/CollisionSquare.cpp
         SourceCode/Camera.cpp
-        SourceCode/GLMetaseq.c
-        SourceCode/AutoBomb.cpp
-        SourceCode/AutoWarObject.cpp
+        war_src/GLMetaseq.c
+        war_src/AutoBomb.cpp
+        war_src/AutoWarObject.cpp
         SourceCode/Bomb.cpp
-        SourceCode/BombArray.cpp
-        SourceCode/BombTank.cpp
-        SourceCode/CollisionBox.cpp
-        SourceCode/CollisionBoxArray.cpp
-        SourceCode/ControlWarObject.cpp
-        SourceCode/Explosion.cpp
+        war_src/BombArray.cpp
+        war_src/BombTank.cpp
+        war_src/CollisionBox.cpp
+        war_src/CollisionBoxArray.cpp
+        war_src/ControlWarObject.cpp
+        war_src/Explosion.cpp
         SourceCode/MqoObject.cpp
         SourceCode/Tank.cpp
         SourceCode/AutoTank.cpp
-        SourceCode/AutoWarControl.cpp
+        war_src/AutoWarControl.cpp
         )
 
 target_link_libraries(${PROJECT_NAME} "freeglut.lib")

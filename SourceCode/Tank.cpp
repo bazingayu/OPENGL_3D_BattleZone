@@ -1,12 +1,3 @@
-/*
- *  tank.cpp
- *  GlMetaseq
- *
- *  Created by le van nghia on 12/5/10.
- *  Copyright 2010 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include "Tank.h"
 
 Tank::Tank()
@@ -162,11 +153,13 @@ void Tank::draw()
 	if(!life)
 		return;
 
-	//printf("Angle with X when draw tank is %2f\n", angleWithX);
+
+//  hirerarchy model
 	glPushMatrix();
 	glTranslatef(position.X(), position.Y(), position.Z());
 	glRotatef(angleWithX, 0.0, 1.0, 0.0);
 	bodyModel.display();
+//  change the z angle with gunAngle
 	glRotatef(gunAngle, 0.0, 0.0, 1.0);
 	gunModel.display();
 	glPopMatrix();

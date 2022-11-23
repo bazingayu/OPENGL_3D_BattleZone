@@ -2,13 +2,13 @@
 #define _AUTOTANK_H_
 
 #include "IncludeS.h"
-#include "AutoWarObject.h"
-#include "CollisionBox.h"
-#include "CollisionBoxArray.h"
-#include "BombArray.h"
+#include "war_src/AutoWarObject.h"
+#include "war_src/CollisionBox.h"
+#include "war_src/CollisionBoxArray.h"
+#include "war_src/BombArray.h"
 #include "MqoObject.h"
 #include "TVector.h"
-#include "ControlWarObject.h"
+#include "war_src/ControlWarObject.h"
 #include "Terrain.h"
 #include "time.h"
 
