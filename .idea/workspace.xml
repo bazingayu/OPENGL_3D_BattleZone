@@ -19,69 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7132f632-96e3-4019-a89b-0c3277cfdddf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Mqo/Tank/bodyTank.mqo" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Mqo/Tank/bodyTank.mqo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoBomb.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoBomb.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoBomb.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoBomb.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoTank.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/AutoTank.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarControl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoWarControl.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarControl.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoWarControl.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoWarObject.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/AutoWarObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/AutoWarObject.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Bomb.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Bomb.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Bomb.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Bomb.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/BombArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/BombArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/BombArray.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/BombArray.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/BombTank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/BombTank.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/BombTank.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/BombTank.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Camera.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Camera.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionBox.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionBox.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionBox.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionBox.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionBoxArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionBoxArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionBoxArray.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionBoxArray.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionSquare.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionSquare.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/CollisionSquare.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/CollisionSquare.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/ControlWarObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/ControlWarObject.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/ControlWarObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/ControlWarObject.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Explosion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/Explosion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Explosion.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/Explosion.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/GLMetaseq.c" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/GLMetaseq.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/GLMetaseq.h" beforeDir="false" afterPath="$PROJECT_DIR$/war_src/GLMetaseq.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/IncludeS.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/IncludeS.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/MqoObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/MqoObject.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/MqoObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/MqoObject.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Tank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Tank.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Tank.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Tank.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Terrain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Terrain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Terrain.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Terrain.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Texture.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Texture.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Texture.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Texture.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Tray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Tray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/Tvector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Tvector.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Loader.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.exe.recipe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.ilk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/CL.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/Week3.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/Week3.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/maths_funcs.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/vc143.idb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Debug/vc143.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Week3.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Week3.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/Week3.vcxproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-99344d4f4649c11cc9d9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-16T11-34-06-0246.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BattleZone-Debug-6d1b4147e0192ce9940d.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" afterDir="false" />
@@ -96,12 +34,19 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Texture.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Texture.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tray.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tray.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tvector.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/Tvector.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/maths_funcs.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/SourceCode/maths_funcs.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoBomb.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoBomb.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoWarControl.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoWarControl.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoWarObject.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/AutoWarObject.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/BombArray.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/BombArray.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/BombTank.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/BombTank.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionBox.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionBox.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionBoxArray.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionBoxArray.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionSquare.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/CollisionSquare.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/ControlWarObject.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/ControlWarObject.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/Explosion.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/war_src/Explosion.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +131,7 @@
       <workItem from="1668517461918" duration="28356000" />
       <workItem from="1669048142938" duration="677000" />
       <workItem from="1669124464947" duration="1408000" />
-      <workItem from="1669203283077" duration="5421000" />
+      <workItem from="1669203283077" duration="10281000" />
     </task>
     <servers />
   </component>
