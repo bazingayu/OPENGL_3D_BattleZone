@@ -20,6 +20,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7132f632-96e3-4019-a89b-0c3277cfdddf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-23T13-23-09-0875.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BattleZone.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BattleZone.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BattleZone.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +114,10 @@
       <workItem from="1668517461918" duration="28356000" />
       <workItem from="1669048142938" duration="677000" />
       <workItem from="1669124464947" duration="1408000" />
-      <workItem from="1669203283077" duration="10898000" />
+      <workItem from="1669203283077" duration="15548000" />
+      <workItem from="1669728708749" duration="993000" />
+      <workItem from="1673050210379" duration="594000" />
+      <workItem from="1673093926426" duration="293000" />
     </task>
     <servers />
   </component>

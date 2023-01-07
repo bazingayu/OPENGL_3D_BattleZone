@@ -198,8 +198,8 @@ void gameInit()
     glEnable(GL_FOG);
     glFogfv(GL_FOG_COLOR,blue);
     glFogf(GL_FOG_MODE, GL_EXP2);
-    glFogf(GL_FOG_START, 200);
-    glFogf(GL_FOG_END, 1000);
+    glFogf(GL_FOG_START, 1.0);
+    glFogf(GL_FOG_END, 5.0);
     glFogf(GL_FOG_DENSITY, gFogDensity);
 
     //initial terrain
