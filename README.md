@@ -1,6 +1,6 @@
 # BattleZone
 
-Wrote a simple 3D Game with C++ + OPENGL, showcase my C++ programming skills and OPENGL ability. The code is well designed with OOP. 
+3D Game with C++ + OPENGL, showcase my C++ programming skills and OPENGL ability. The code is well designed with OOP. 
 
 ##Features:  
 1. Display at least one 3D polygon mesh - you may generate this or load scene/objects from a file;   
